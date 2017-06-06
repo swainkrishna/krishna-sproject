@@ -21,5 +21,5 @@ MACHINE_TYPE=`uname -m`
 	fi
 git clone https://github.com/MichMich/MagicMirror
 cd ~/MagicMirror
-npm install 
+sudo apt install npm 
 npm start
